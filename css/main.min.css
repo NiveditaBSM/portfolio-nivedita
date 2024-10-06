@@ -598,6 +598,7 @@ table td {
 }
 #hamburger-menu-toggle {
     display: inline-block;
+    margin: 0.5rem 0.5rem;
 }
 main#content {
     box-sizing: border-box;
