@@ -43,24 +43,24 @@
 @font-face{
     font-family:Calibre;
     font-weight:400;
-    src:url(/fonts/Calibre-Regular.ttf)
+    src:url(./fonts/Calibre-Regular.ttf)
 }
 
 @font-face{
     font-family:Calibre;
-    font-weight:700;src:url(/fonts/Calibre-Semibold.ttf)
+    font-weight:700;src:url(./fonts/Calibre-Semibold.ttf)
 }
 
 @font-face{
     font-family:SFMono;
     font-weight:400;
-    src:url(/fonts/SFMono-Regular.ttf)
+    src:url(./fonts/SFMono-Regular.ttf)
 }
 
 @font-face{
     font-family:SFMono;
     font-weight:700;
-    src:url(/fonts/SFMono-Medium.ttf)
+    src:url(./fonts/SFMono-Medium.ttf)
 }
 
 html{
