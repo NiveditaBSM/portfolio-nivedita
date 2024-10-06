@@ -8,8 +8,8 @@
     --green-tint: rgba(24, 57, 61, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
-    --font-sans: 'Calibre','Inter','San Francisco','SF Pro Text',-apple-system,system-ui,sans-serif;
-    --font-mono: 'SFMono','Fira Code','Fira Mono','Roboto Mono',monospace;
+    --font-sans: 'calibre','Inter','San Francisco','SF Pro Text',-apple-system,system-ui,sans-serif;
+    --font-mono: 'sf mono','Fira Code','Fira Mono','Roboto Mono',monospace;
     --fz-xxs: 12px;
     --fz-xs: 13px;
     --fz-sm: 14px;
@@ -41,24 +41,25 @@
 }
 
 @font-face{
-    font-family:Calibre;
+    font-family:calibre;
     font-weight:400;
     src:url(./fonts/Calibre-Regular.ttf)
 }
 
 @font-face{
-    font-family:Calibre;
-    font-weight:700;src:url(./fonts/Calibre-Semibold.ttf)
+    font-family:calibre;
+    font-weight:700;
+    src:url(./fonts/Calibre-Semibold.ttf)
 }
 
 @font-face{
-    font-family:SFMono;
+    font-family:sf mono;
     font-weight:400;
     src:url(./fonts/SFMono-Regular.ttf)
 }
 
 @font-face{
-    font-family:SFMono;
+    font-family:sf mono;
     font-weight:700;
     src:url(./fonts/SFMono-Medium.ttf)
 }
