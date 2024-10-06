@@ -1,0 +1,19 @@
+:root{
+    --light-slate: #a8b2d1;
+    --font-sans: 'Calibre','Inter','San Francisco','SF Pro Text',-apple-system,system-ui,sans-serif;
+}
+
+.home-about > h1 {
+    margin: 0px;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 600;
+    color: var(--lightest-slate);
+    line-height: 1.1;
+    font-family: var(--font-sans);
+    font-weight: 300;
+    font-size: 3.3em;
+    font-style: normal;
+    line-height: 0.5;
+    letter-spacing: 0.039em;
+  }
+  
